@@ -13,8 +13,8 @@ def get_country_code(country_name):
 def add_country_code_column():
     # Get data file directory
     cwd = os.getcwd()
-    original_data_path = cwd + '/original_data/'
-    processed_data_path = cwd + '/processed_data/'
+    original_data_path = cwd + '/original_data_2022/'
+    processed_data_path = cwd + '/processed_data_2022/'
     
     # Get all files in the specified directory
     file_names = os.listdir(original_data_path)
@@ -39,7 +39,7 @@ def add_country_code_column():
 def join_tables():
     # Get data file directory
     cwd = os.getcwd()
-    processed_data_path = cwd + '/processed_data/'
+    processed_data_path = cwd + '/processed_data_2022/'
 
     # Get all files in the specified directory
     file_names = os.listdir(processed_data_path)
