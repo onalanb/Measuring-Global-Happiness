@@ -1,0 +1,198 @@
+country_name,slug,education_expenditures,date_of_information,ranking,region,country_code
+Marshall Islands,marshall-islands,13.6,2020 est.,1,Australia and Oceania,MH
+Solomon Islands,solomon-islands,12.8,2020 est.,2,Australia and Oceania,SB
+Kiribati,kiribati,12.4,2019 est.,3,Australia and Oceania,KI
+Greenland,greenland,10.2,2019 est.,4,North America,GL
+Bolivia,bolivia,9.8,2020 est.,5,South America,
+"Micronesia, Federated States of",micronesia-federated-states-of,9.7,2018 est.,6,Australia and Oceania,FM
+Namibia,namibia,9.6,2021 est.,7,Africa,NA
+Sierra Leone,sierra-leone,9.1,2021 est.,8,Africa,SL
+Belize,belize,8.7,2021 est.,9,Central America and the Caribbean,BZ
+Botswana,botswana,8.7,2020 est.,10,Africa,BW
+Lesotho,lesotho,8.7,2021 est.,11,Africa,LS
+Saudi Arabia,saudi-arabia,7.8,2020,12,Middle East,SA
+Iceland,iceland,7.7,2020 est.,13,Europe,IS
+Cabo Verde,cabo-verde,7.6,2020 est.,14,Africa,CV
+Faroe Islands,faroe-islands,7.6,2019 est.,15,Europe,FO
+Curacao,curacao,7.4,2020 est.,16,Central America and the Caribbean,
+Tunisia,tunisia,7.3,2016 est.,17,Africa,TN
+Sweden,sweden,7.2,2020 est.,18,Europe,SE
+Israel,israel,7.1,2020 est.,19,Middle East,IL
+Nauru,nauru,7.1,2021,20,Australia and Oceania,NR
+Algeria,algeria,7.0,2020 est.,21,Africa,DZ
+Bhutan,bhutan,7.0,2021 est.,22,South Asia,BT
+Morocco,morocco,6.8,2020,23,Africa,MA
+Palau,palau,6.8,2019,24,Australia and Oceania,PW
+Belgium,belgium,6.7,2020 est.,25,Europe,BE
+Costa Rica,costa-rica,6.7,2020 est.,26,Central America and the Caribbean,CR
+Estonia,estonia,6.6,2020 est.,27,Europe,EE
+Kuwait,kuwait,6.6,2020 est.,28,Middle East,KW
+South Africa,south-africa,6.6,2021 est.,29,Africa,ZA
+Tonga,tonga,6.6,2021 est.,30,Australia and Oceania,TO
+Barbados,barbados,6.5,2021 est.,31,Central America and the Caribbean,BB
+Denmark,denmark,6.4,2020 est.,32,Europe,DK
+Honduras,honduras,6.4,2020 est.,33,Central America and the Caribbean,HN
+Moldova,moldova,6.4,2020 est.,34,Europe,
+Macau,macau,6.3,2020 est.,35,East and Southeast Asia,
+Mozambique,mozambique,6.3,2020 est.,36,Africa,MZ
+Kyrgyzstan,kyrgyzstan,6.2,2020 est.,37,Central Asia,KG
+Australia,australia,6.1,2020 est.,38,Australia and Oceania,AU
+Cyprus,cyprus,6.1,2020 est.,39,Europe,CY
+United States,united-states,6.1,2020 est.,40,North America,US
+Brazil,brazil,6.0,2019 est.,41,South America,BR
+Jamaica,jamaica,6.0,2021 est.,42,Central America and the Caribbean,JM
+Latvia,latvia,6.0,2020 est.,43,Europe,LV
+New Zealand,new-zealand,6.0,2020 est.,44,Australia and Oceania,NZ
+Finland,finland,5.9,2020 est.,45,Europe,FI
+Malta,malta,5.9,2020 est.,46,Europe,MT
+Norway,norway,5.9,2020 est.,47,Europe,NO
+Tajikistan,tajikistan,5.9,2020 est.,48,Central Asia,TJ
+Maldives,maldives,5.8,2020 est.,49,South Asia,MV
+Slovenia,slovenia,5.8,2020 est.,50,Europe,SI
+Fiji,fiji,5.7,2020 est.,51,Australia and Oceania,FJ
+Saint Vincent and the Grenadines,saint-vincent-and-the-grenadines,5.7,2018 est.,52,Central America and the Caribbean,VC
+Chile,chile,5.6,2019 est.,53,South America,CL
+Aruba,aruba,5.5,2016 est.,54,Central America and the Caribbean,AW
+Burkina Faso,burkina-faso,5.5,2020 est.,55,Africa,BF
+Croatia,croatia,5.5,2020 est.,56,Europe,HR
+Dominica,dominica,5.5,2021 est.,57,Central America and the Caribbean,DM
+France,france,5.5,2020 est.,58,Europe,FR
+Senegal,senegal,5.5,2020 est.,59,Africa,SN
+United Kingdom,united-kingdom,5.5,2020 est.,60,Europe,GB
+Montserrat,montserrat,5.4,2020 est.,61,Central America and the Caribbean,MS
+Oman,oman,5.4,2019 est.,62,Middle East,OM
+Ukraine,ukraine,5.4,2020 est.,63,Europe,UA
+Gaza Strip,gaza-strip,5.3,2018 est.,64,Middle East,
+Netherlands,netherlands,5.3,2020 est.,65,Europe,NL
+West Bank,west-bank,5.3,2018 est.,66,Middle East,
+Canada,canada,5.2,2020 est.,67,North America,CA
+Poland,poland,5.2,2020 est.,68,Europe,PL
+Seychelles,seychelles,5.2,2020 est.,69,Africa,SC
+Switzerland,switzerland,5.2,2020 est.,70,Europe,CH
+Austria,austria,5.1,2020 est.,71,Europe,AT
+Czechia,czechia,5.1,2020 est.,72,Europe,CZ
+Argentina,argentina,5.0,2020 est.,73,South America,AR
+Burundi,burundi,5.0,2020 est.,74,Africa,BI
+Eswatini,eswatini,5.0,2021 est.,75,Africa,SZ
+Luxembourg,luxembourg,5.0,2020 est.,76,Europe,LU
+Portugal,portugal,5.0,2020 est.,77,Europe,PT
+Sao Tome and Principe,sao-tome-and-principe,5.0,2020 est.,78,Africa,ST
+Suriname,suriname,5.0,2020 est.,79,South America,SR
+Colombia,colombia,4.9,2020 est.,80,South America,CO
+Mauritius,mauritius,4.9,2021 est.,81,Africa,MU
+Uzbekistan,uzbekistan,4.9,2020 est.,82,Central Asia,UZ
+Hungary,hungary,4.8,2020 est.,83,Europe,HU
+Kenya,kenya,4.8,2021 est.,84,Africa,KE
+Samoa,samoa,4.8,2020 est.,85,Australia and Oceania,WS
+Belarus,belarus,4.7,2021 est.,86,Europe,BY
+Germany,germany,4.7,2020 est.,87,Europe,DE
+Iraq,iraq,4.7,2016,88,Middle East,IQ
+"Korea, South",korea-south,4.7,2019 est.,89,East and Southeast Asia,
+Mongolia,mongolia,4.7,2020 est.,90,East and Southeast Asia,MN
+Cook Islands,cook-islands,4.6,2021 est.,91,Australia and Oceania,CK
+Dominican Republic,dominican-republic,4.6,2020 est.,92,Central America and the Caribbean,DO
+Nicaragua,nicaragua,4.6,2020 est.,93,Central America and the Caribbean,NI
+Slovakia,slovakia,4.6,2020 est.,94,Europe,SK
+Spain,spain,4.6,2020 est.,95,Europe,ES
+Uruguay,uruguay,4.6,2020 est.,96,South America,UY
+"Congo, Republic of the",congo-republic-of-the,4.5,2020 est.,97,Africa,
+Ethiopia,ethiopia,4.5,2019 est.,98,Africa,ET
+Guyana,guyana,4.5,2018 est.,99,South America,GY
+India,india,4.5,2020 est.,100,South Asia,IN
+Kazakhstan,kazakhstan,4.5,2020 est.,101,Central Asia,KZ
+Turks and Caicos Islands,turks-and-caicos-islands,4.5,2021 est.,102,Central America and the Caribbean,TC
+Brunei,brunei,4.4,2016 est.,103,East and Southeast Asia,
+Greece,greece,4.4,2020 est.,104,Europe,GR
+Mali,mali,4.4,2021 est.,105,Africa,ML
+Azerbaijan,azerbaijan,4.3,2020 est.,106,Middle East,AZ
+Italy,italy,4.3,2020 est.,107,Europe,IT
+Mexico,mexico,4.3,2018 est.,108,North America,MX
+Nepal,nepal,4.2,2020 est.,109,South Asia,NP
+Timor-Leste,timor-leste,4.2,2020 est.,110,East and Southeast Asia,TL
+El Salvador,el-salvador,4.1,2020 est.,111,Central America and the Caribbean,SV
+Trinidad and Tobago,trinidad-and-tobago,4.1,2020 est.,112,Central America and the Caribbean,TT
+Vietnam,vietnam,4.1,2020 est.,113,East and Southeast Asia,
+Anguilla,anguilla,4.0,2020 est.,114,Central America and the Caribbean,AI
+Bulgaria,bulgaria,4.0,2020 est.,115,Europe,BG
+Hong Kong,hong-kong,4.0,2021 est.,116,East and Southeast Asia,HK
+Lithuania,lithuania,4.0,2019 est.,117,Europe,LT
+Peru,peru,4.0,2021 est.,118,South America,PE
+Togo,togo,4.0,2020 est.,119,Africa,TG
+Ghana,ghana,3.9,2018 est.,120,Africa,GH
+Malaysia,malaysia,3.9,2020 est.,121,East and Southeast Asia,MY
+Panama,panama,3.9,2020 est.,122,Central America and the Caribbean,PA
+United Arab Emirates,united-arab-emirates,3.9,2020 est.,123,Middle East,AE
+Zimbabwe,zimbabwe,3.9,2018 est.,124,Africa,ZW
+Antigua and Barbuda,antigua-and-barbuda,3.8,202 est.,125,Central America and the Caribbean,AG
+Niger,niger,3.8,2020 est.,126,Africa,NE
+Rwanda,rwanda,3.8,2021 est.,127,Africa,RW
+Ecuador,ecuador,3.7,2021 est.,128,South America,EC
+Philippines,philippines,3.7,2020 est.,129,East and Southeast Asia,PH
+Romania,romania,3.7,2020 est.,130,Europe,RO
+Russia,russia,3.7,2020 est.,131,Central Asia,
+Zambia,zambia,3.7,2020,132,Africa,ZM
+China,china,3.6,2020 est.,133,East and Southeast Asia,CN
+Djibouti,djibouti,3.6,2018 est.,134,Africa,DJ
+Georgia,georgia,3.6,2021 est.,135,Middle East,GE
+Grenada,grenada,3.6,2018 est.,136,Central America and the Caribbean,GD
+Iran,iran,3.6,2020 est.,137,Middle East,
+Puerto Rico,puerto-rico,3.6,2021 est.,138,Central America and the Caribbean,PR
+Saint Lucia,saint-lucia,3.6,2020 est.,139,Central America and the Caribbean,LC
+Serbia,serbia,3.6,2019 est.,140,Europe,RS
+Indonesia,indonesia,3.5,2020 est.,141,East and Southeast Asia,ID
+Cote d'Ivoire,cote-divoire,3.4,2020 est.,142,Africa,
+Japan,japan,3.4,2020 est.,143,East and Southeast Asia,JP
+San Marino,san-marino,3.4,2020 est.,144,Europe,SM
+Turkey (Turkiye),turkey-turkiye,3.4,2020 est.,145,Middle East,
+Paraguay,paraguay,3.3,2020 est.,146,South America,PY
+Tanzania,tanzania,3.3,2021 est.,147,Africa,
+Cameroon,cameroon,3.2,2020 est.,148,Africa,CM
+Gabon,gabon,3.2,2020 est.,149,Africa,GA
+Jordan,jordan,3.2,2021 est.,150,Middle East,JO
+Qatar,qatar,3.2,2020 est.,151,Middle East,QA
+Thailand,thailand,3.2,2020 est.,152,East and Southeast Asia,TH
+Albania,albania,3.1,2020 est.,153,Europe,AL
+Cambodia,cambodia,3.1,2020 est.,154,East and Southeast Asia,KH
+Guatemala,guatemala,3.1,2021 est.,155,Central America and the Caribbean,GT
+Ireland,ireland,3.1,2020 est.,156,Europe,IE
+Madagascar,madagascar,3.1,2020 est.,157,Africa,MG
+Turkmenistan,turkmenistan,3.1,2019 est.,158,Central Asia,TM
+Benin,benin,3.0,2020 est.,159,Africa,BJ
+Afghanistan,afghanistan,2.9,2020 est.,160,South Asia,AF
+Andorra,andorra,2.9,2021 est.,161,Europe,AD
+Chad,chad,2.9,2021 est.,162,Africa,TD
+Malawi,malawi,2.9,2020 est.,163,Africa,MW
+Armenia,armenia,2.8,2021 est.,164,Middle East,AM
+"Bahamas, The",bahamas-the,2.8,2021 est.,165,Central America and the Caribbean,
+"Gambia, The",gambia-the,2.8,2020 est.,166,Africa,
+Singapore,singapore,2.8,2021 est.,167,East and Southeast Asia,SG
+"Congo, Democratic Republic of the",congo-democratic-republic-of-the,2.7,2021 est.,168,Africa,
+Guinea-Bissau,guinea-bissau,2.7,2020 est.,169,Africa,GW
+Liberia,liberia,2.7,2021 est.,170,Africa,LR
+Uganda,uganda,2.7,2021 est.,171,Africa,UG
+British Virgin Islands,british-virgin-islands,2.6,2020 est.,172,Central America and the Caribbean,
+Comoros,comoros,2.6,2015 est.,173,Africa,KM
+Liechtenstein,liechtenstein,2.6,2011 est.,174,Europe,LI
+Egypt,egypt,2.5,2020 est.,175,Africa,EG
+Saint Kitts and Nevis,saint-kitts-and-nevis,2.5,2021 est.,176,Central America and the Caribbean,KN
+Angola,angola,2.4,2020 est.,177,Africa,AO
+Pakistan,pakistan,2.4,2021 est.,178,South Asia,PK
+Laos,laos,2.3,2020 est.,179,East and Southeast Asia,
+Bahrain,bahrain,2.2,2020 est.,180,Middle East,BH
+Central African Republic,central-african-republic,2.2,2020 est.,181,Africa,CF
+Guinea,guinea,2.2,2020 est.,182,Africa,GN
+Vanuatu,vanuatu,2.2,2020 est.,183,Australia and Oceania,VU
+Bangladesh,bangladesh,2.1,2021 est.,184,South Asia,BD
+Burma,burma,2.1,2019 est.,185,East and Southeast Asia,
+Cayman Islands,cayman-islands,2.1,2019,186,Central America and the Caribbean,KY
+Bermuda,bermuda,1.9,2021 est.,187,North America,BM
+Mauritania,mauritania,1.9,2020 est.,188,Africa,MR
+Sri Lanka,sri-lanka,1.9,2019 est.,189,South Asia,LK
+Lebanon,lebanon,1.7,2020 est.,190,Middle East,LB
+South Sudan,south-sudan,1.5,2016 est.,191,Africa,SS
+Haiti,haiti,1.4,2020 est.,192,Central America and the Caribbean,HT
+Papua New Guinea,papua-new-guinea,1.4,2020 est.,193,East and Southeast Asia,PG
+Venezuela,venezuela,1.3,2017 est.,194,South America,
+Monaco,monaco,1.2,2019 est.,195,Europe,MC
+Nigeria,nigeria,0.5,2013,196,Africa,NG
+Somalia,somalia,0.3,2019,197,Africa,SO

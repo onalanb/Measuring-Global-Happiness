@@ -1,0 +1,220 @@
+country_name,slug,unemployment_rate,date_of_information,ranking,region,country_code
+Cocos (Keeling) Islands,cocos-keeling-islands,0.1,2011,1,Australia and Oceania,CC
+Cambodia,cambodia,0.3,2017 est.,2,East and Southeast Asia,KH
+Niger,niger,0.3,2017 est.,3,Africa,NE
+Laos,laos,0.7,2017 est.,4,East and Southeast Asia,
+Malta,malta,0.78,2019 est.,5,Europe,MT
+Belarus,belarus,0.8,2017 est.,6,Europe,BY
+Thailand,thailand,0.99,2019 est.,7,East and Southeast Asia,TH
+Benin,benin,1.0,2014 est.,8,Africa,BJ
+Falkland Islands (Islas Malvinas),falkland-islands-islas-malvinas,1.0,2016 est.,9,South America,
+Gibraltar,gibraltar,1.0,2016 est.,10,Europe,GI
+Isle of Man,isle-of-man,1.1,2017 est.,11,Europe,IM
+Kuwait,kuwait,1.1,2017 est.,12,Middle East,KW
+Tonga,tonga,1.1,2011 est.,13,Australia and Oceania,TO
+Guernsey,guernsey,1.2,2016 est.,14,Europe,GG
+United Arab Emirates,united-arab-emirates,1.6,2016 est.,15,Middle East,AE
+Palau,palau,1.7,2015 est.,16,Australia and Oceania,PW
+Vanuatu,vanuatu,1.7,1999 est.,17,Australia and Oceania,VU
+Madagascar,madagascar,1.8,2017 est.,18,Africa,MG
+Macau,macau,2.0,2017 est.,19,East and Southeast Asia,
+Monaco,monaco,2.0,2012,20,Europe,MC
+Tokelau,tokelau,2.0,2015 est.,21,Australia and Oceania,TK
+Faroe Islands,faroe-islands,2.2,2017 est.,22,Europe,FO
+Singapore,singapore,2.25,2019 est.,23,East and Southeast Asia,SG
+Guatemala,guatemala,2.3,2017 est.,24,Central America and the Caribbean,GT
+Switzerland,switzerland,2.31,2019 est.,25,Europe,CH
+Japan,japan,2.36,2019 est.,26,East and Southeast Asia,JP
+Liechtenstein,liechtenstein,2.4,2015,27,Europe,LI
+Tajikistan,tajikistan,2.4,2016 est.,28,Central Asia,TJ
+Papua New Guinea,papua-new-guinea,2.5,2017 est.,29,East and Southeast Asia,PG
+Cuba,cuba,2.6,2017 est.,30,Central America and the Caribbean,CU
+Guinea,guinea,2.7,2017 est.,31,Africa,GN
+Rwanda,rwanda,2.7,2014 est.,32,Africa,RW
+Czechia,czechia,2.8,2019 est.,33,Europe,CZ
+Liberia,liberia,2.8,2014 est.,34,Africa,LR
+British Virgin Islands,british-virgin-islands,2.9,2015 est.,35,Central America and the Caribbean,
+Maldives,maldives,2.9,2017 est.,36,South Asia,MV
+Hong Kong,hong-kong,2.93,2019 est.,37,East and Southeast Asia,HK
+Nepal,nepal,3.0,2017 est.,38,South Asia,NP
+Seychelles,seychelles,3.0,2017 est.,39,Africa,SC
+Denmark,denmark,3.05,2019 est.,40,Europe,DK
+Romania,romania,3.06,2019 est.,41,Europe,RO
+Vietnam,vietnam,3.11,2018 est.,42,East and Southeast Asia,
+United Kingdom,united-kingdom,3.17,2019 est.,43,Europe,GB
+Kyrgyzstan,kyrgyzstan,3.18,2019 est.,44,Central Asia,KG
+Bhutan,bhutan,3.2,2017 est.,45,South Asia,BT
+Malaysia,malaysia,3.3,2019 est.,46,East and Southeast Asia,MY
+Netherlands,netherlands,3.41,2019 est.,47,Europe,NL
+Hungary,hungary,3.45,2019 est.,48,Europe,HU
+Mexico,mexico,3.49,2019 est.,49,North America,MX
+Bahrain,bahrain,3.6,2017 est.,50,Middle East,BH
+Iceland,iceland,3.62,2019 est.,51,Europe,IS
+China,china,3.64,2019 est.,52,East and Southeast Asia,CN
+Andorra,andorra,3.7,2016 est.,53,Europe,AD
+Norway,norway,3.72,2019 est.,54,Europe,NO
+Taiwan,taiwan,3.73,2019 est.,55,East and Southeast Asia,
+"Korea, South",korea-south,3.76,2019 est.,56,East and Southeast Asia,
+United States,united-states,3.89,2018 est.,57,North America,US
+Bolivia,bolivia,4.0,2017 est.,58,South America,
+Burma,burma,4.0,2017 est.,59,East and Southeast Asia,
+Cayman Islands,cayman-islands,4.0,2008,60,Central America and the Caribbean,KY
+Jersey,jersey,4.0,2015 est.,61,Europe,JE
+New Zealand,new-zealand,4.13,2019 est.,62,Australia and Oceania,NZ
+Cameroon,cameroon,4.3,2014 est.,63,Africa,CM
+Bangladesh,bangladesh,4.4,2017 est.,64,South Asia,BD
+Israel,israel,4.4,2020 est.,65,Middle East,IL
+Timor-Leste,timor-leste,4.4,2014 est.,66,East and Southeast Asia,TL
+Fiji,fiji,4.5,2017 est.,67,Australia and Oceania,FJ
+Guam,guam,4.5,2017 est.,68,Australia and Oceania,GU
+Saint Kitts and Nevis,saint-kitts-and-nevis,4.5,1997,69,Central America and the Caribbean,KN
+Russia,russia,4.6,2019 est.,70,Central Asia,
+Kazakhstan,kazakhstan,4.8,2019 est.,71,Central Asia,KZ
+Sri Lanka,sri-lanka,4.83,2019 est.,72,South Asia,LK
+Trinidad and Tobago,trinidad-and-tobago,4.9,2017 est.,73,Central America and the Caribbean,TT
+Estonia,estonia,4.94,2019 est.,74,Europe,EE
+Ireland,ireland,4.98,2019 est.,75,Europe,IE
+Germany,germany,4.98,2019 est.,76,Europe,DE
+Moldova,moldova,4.99,2019 est.,77,Europe,
+Slovakia,slovakia,5.0,2019 est.,78,Europe,SK
+Azerbaijan,azerbaijan,5.0,2017 est.,79,Middle East,AZ
+Uzbekistan,uzbekistan,5.0,2017 est.,80,Central Asia,UZ
+Dominican Republic,dominican-republic,5.1,2017 est.,81,Central America and the Caribbean,DO
+Philippines,philippines,5.11,2019 est.,82,East and Southeast Asia,PH
+Australia,australia,5.16,2019 est.,83,Australia and Oceania,AU
+Samoa,samoa,5.2,2017 est.,84,Australia and Oceania,WS
+Indonesia,indonesia,5.31,2018 est.,85,East and Southeast Asia,ID
+Belgium,belgium,5.36,2019 est.,86,Europe,BE
+Luxembourg,luxembourg,5.36,2019 est.,87,Europe,LU
+Poland,poland,5.43,2019 est.,88,Europe,PL
+Honduras,honduras,5.6,2017 est.,89,Central America and the Caribbean,HN
+Montserrat,montserrat,5.6,2017 est.,90,Central America and the Caribbean,MS
+Bulgaria,bulgaria,5.66,2019 est.,91,Europe,BG
+Canada,canada,5.67,2019 est.,92,North America,CA
+Paraguay,paraguay,5.7,2017 est.,93,South America,PY
+Ecuador,ecuador,5.71,2019 est.,94,South America,EC
+Eritrea,eritrea,5.8,2017 est.,95,Africa,ER
+Albania,albania,5.83,2019 est.,96,Europe,AL
+Pakistan,pakistan,6.0,2017 est.,97,South Asia,PK
+Saudi Arabia,saudi-arabia,6.0,2017 est.,98,Middle East,SA
+Panama,panama,6.14,2018 est.,99,Central America and the Caribbean,PA
+Latvia,latvia,6.14,2019 est.,100,Europe,LV
+Nicaragua,nicaragua,6.4,2017 est.,101,Central America and the Caribbean,NI
+Comoros,comoros,6.5,2014 est.,102,Africa,KM
+Portugal,portugal,6.55,2019 est.,103,Europe,PT
+Peru,peru,6.58,2019 est.,104,South America,PE
+Angola,angola,6.6,2016 est.,105,Africa,AO
+Finland,finland,6.63,2019 est.,106,Europe,FI
+Mauritius,mauritius,6.65,2019 est.,107,Africa,MU
+Sweden,sweden,6.78,2019 est.,108,Europe,SE
+Brunei,brunei,6.9,2017 est.,109,East and Southeast Asia,
+Central African Republic,central-african-republic,6.9,2017 est.,110,Africa,CF
+Togo,togo,6.9,2016 est.,111,Africa,TG
+Venezuela,venezuela,6.9,2018 est.,112,South America,
+Bermuda,bermuda,7.0,2017 est.,113,North America,BM
+El Salvador,el-salvador,7.0,2017 est.,114,Central America and the Caribbean,SV
+Cyprus,cyprus,7.07,2019 est.,115,Europe,CY
+Chile,chile,7.22,2019 est.,116,South America,CL
+Austria,austria,7.35,2019 est.,117,Europe,AT
+Uruguay,uruguay,7.6,2017 est.,118,South America,UY
+Slovenia,slovenia,7.64,2019 est.,119,Europe,SI
+Aruba,aruba,7.7,2016 est.,120,Central America and the Caribbean,AW
+Jamaica,jamaica,7.72,2019 est.,121,Central America and the Caribbean,JM
+Egypt,egypt,7.86,2019 est.,122,Africa,EG
+Mali,mali,7.9,2017 est.,123,Africa,ML
+Anguilla,anguilla,8.0,2002,124,Central America and the Caribbean,AI
+Mongolia,mongolia,8.0,2017 est.,125,East and Southeast Asia,MN
+Croatia,croatia,8.07,2019 est.,126,Europe,HR
+Costa Rica,costa-rica,8.1,2017 est.,127,Central America and the Caribbean,CR
+San Marino,san-marino,8.1,2017 est.,128,Europe,SM
+France,france,8.12,2019 est.,129,Europe,FR
+Lithuania,lithuania,8.4,2019 est.,130,Europe,LT
+India,india,8.5,2017 est.,131,South Asia,IN
+Equatorial Guinea,equatorial-guinea,8.6,2014 est.,132,Africa,GQ
+Saint Pierre and Miquelon,saint-pierre-and-miquelon,8.7,2015 est.,133,North America,PM
+Wallis and Futuna,wallis-and-futuna,8.8,2013 est.,134,Australia and Oceania,WF
+Ukraine,ukraine,8.89,2019 est.,135,Europe,UA
+Qatar,qatar,8.9,2017 est.,136,Middle East,QA
+Suriname,suriname,8.9,2017 est.,137,South America,SR
+Belize,belize,9.0,2017 est.,138,Central America and the Caribbean,BZ
+Cabo Verde,cabo-verde,9.0,2017 est.,139,Africa,CV
+Greenland,greenland,9.1,2015 est.,140,North America,GL
+Morocco,morocco,9.23,2019 est.,141,Africa,MA
+Cote d'Ivoire,cote-divoire,9.4,2013 est.,142,Africa,
+Uganda,uganda,9.4,2014 est.,143,Africa,UG
+Lebanon,lebanon,9.7,2007,144,Middle East,LB
+Argentina,argentina,9.84,2019 est.,145,South America,AR
+Italy,italy,9.88,2019 est.,146,Europe,IT
+Turks and Caicos Islands,turks-and-caicos-islands,10.0,1997 est.,147,Central America and the Caribbean,TC
+"Bahamas, The",bahamas-the,10.1,2017 est.,148,Central America and the Caribbean,
+Barbados,barbados,10.1,2017 est.,149,Central America and the Caribbean,BB
+Mauritania,mauritania,10.2,2017 est.,150,Africa,MR
+Tanzania,tanzania,10.3,2014 est.,151,Africa,
+Virgin Islands,virgin-islands,10.4,2017 est.,152,Central America and the Caribbean,
+Colombia,colombia,10.5,2019 est.,153,South America,CO
+Puerto Rico,puerto-rico,10.8,2017 est.,154,Central America and the Caribbean,PR
+Antigua and Barbuda,antigua-and-barbuda,11.0,2014 est.,155,Central America and the Caribbean,AG
+Turkmenistan,turkmenistan,11.0,2014 est.,156,Central Asia,TM
+Guyana,guyana,11.1,2013,157,South America,GY
+Northern Mariana Islands,northern-mariana-islands,11.2,2010 est.,158,Australia and Oceania,MP
+Zimbabwe,zimbabwe,11.3,2014 est.,159,Africa,ZW
+Algeria,algeria,11.7,2017 est.,160,Africa,DZ
+Georgia,georgia,11.8,2016 est.,161,Middle East,GE
+Iran,iran,11.8,2017 est.,162,Middle East,
+Ghana,ghana,11.9,2015 est.,163,Africa,GH
+Brazil,brazil,11.93,2019 est.,164,South America,BR
+Niue,niue,12.0,2001,165,Australia and Oceania,NU
+Sint Maarten,sint-maarten,12.0,2012 est.,166,Central America and the Caribbean,
+Sao Tome and Principe,sao-tome-and-principe,12.2,2017 est.,167,Africa,ST
+Curacao,curacao,13.0,2013 est.,168,Central America and the Caribbean,
+Cook Islands,cook-islands,13.1,2005,169,Australia and Oceania,CK
+Turkey (Turkiye),turkey-turkiye,13.68,2019 est.,170,Middle East,
+"Saint Helena, Ascension, and Tristan da Cunha",saint-helena-ascension-and-tristan-da-cunha,14.0,1998 est.,171,Africa,
+Serbia,serbia,14.1,2017 est.,172,Europe,RS
+Spain,spain,14.13,2019 est.,173,Europe,ES
+New Caledonia,new-caledonia,14.7,2014,174,Australia and Oceania,NC
+Sierra Leone,sierra-leone,15.0,2017 est.,175,Africa,SL
+Zambia,zambia,15.0,2008 est.,176,Africa,ZM
+Tunisia,tunisia,15.5,2017 est.,177,Africa,TN
+Montenegro,montenegro,15.82,2019 est.,178,Europe,ME
+Iraq,iraq,16.0,2012 est.,179,Middle East,IQ
+"Micronesia, Federated States of",micronesia-federated-states-of,16.2,2010 est.,180,Australia and Oceania,FM
+Nigeria,nigeria,16.5,2017 est.,181,Africa,NG
+North Macedonia,north-macedonia,17.29,2019 est.,182,Europe,MK
+Greece,greece,17.3,2019 est.,183,Europe,GR
+Ethiopia,ethiopia,17.5,2012 est.,184,Africa,ET
+Saint Vincent and the Grenadines,saint-vincent-and-the-grenadines,18.8,2008 est.,185,Central America and the Caribbean,VC
+Armenia,armenia,18.9,2017 est.,186,Middle East,AM
+Jordan,jordan,19.1,2019 est.,187,Middle East,JO
+Sudan,sudan,19.6,2017 est.,188,Africa,SD
+Botswana,botswana,20.0,2013 est.,189,Africa,BW
+Saint Lucia,saint-lucia,20.0,2003 est.,190,Central America and the Caribbean,LC
+Malawi,malawi,20.4,2013 est.,191,Africa,MW
+French Polynesia,french-polynesia,21.8,2012,192,Australia and Oceania,PF
+Dominica,dominica,23.0,2000 est.,193,Central America and the Caribbean,DM
+Nauru,nauru,23.0,2011 est.,194,Australia and Oceania,NR
+Afghanistan,afghanistan,23.9,2017 est.,195,South Asia,AF
+Grenada,grenada,24.0,2017 est.,196,Central America and the Caribbean,GD
+Mozambique,mozambique,24.5,2017 est.,197,Africa,MZ
+"Korea, North",korea-north,25.6,2013 est.,198,East and Southeast Asia,
+Yemen,yemen,27.0,2014 est.,199,Middle East,YE
+Gaza Strip,gaza-strip,27.9,2017 est.,200,Middle East,
+West Bank,west-bank,27.9,2017 est.,201,Middle East,
+Eswatini,eswatini,28.0,2014 est.,202,Africa,SZ
+Gabon,gabon,28.0,2015 est.,203,Africa,GA
+Lesotho,lesotho,28.1,2014 est.,204,Africa,LS
+South Africa,south-africa,28.53,2019 est.,205,Africa,ZA
+American Samoa,american-samoa,29.8,2005,206,Australia and Oceania,AS
+Libya,libya,30.0,2004 est.,207,Africa,LY
+Kosovo,kosovo,30.5,2017 est.,208,Europe,
+Kiribati,kiribati,30.6,2010 est.,209,Australia and Oceania,KI
+Bosnia and Herzegovina,bosnia-and-herzegovina,33.28,2019 est.,210,Europe,BA
+Namibia,namibia,34.0,2016 est.,211,Africa,NA
+"Congo, Republic of the",congo-republic-of-the,36.0,2014 est.,212,Africa,
+Marshall Islands,marshall-islands,36.0,2006 est.,213,Australia and Oceania,MH
+Djibouti,djibouti,40.0,2017 est.,214,Africa,DJ
+Kenya,kenya,40.0,2013 est.,215,Africa,KE
+Haiti,haiti,40.6,2010 est.,216,Central America and the Caribbean,HT
+Senegal,senegal,48.0,2007 est.,217,Africa,SN
+Syria,syria,50.0,2017 est.,218,Middle East,
+Burkina Faso,burkina-faso,77.0,2004,219,Africa,BF

@@ -1,0 +1,238 @@
+country_name,slug,population_growth_rate,date_of_information,ranking,region,country_code
+Syria,syria,5.91,2022 est.,1,Middle East,
+South Sudan,south-sudan,4.91,2022 est.,2,Africa,SS
+Niger,niger,3.66,2022 est.,3,Africa,NE
+Burundi,burundi,3.63,2022 est.,4,Africa,BI
+Equatorial Guinea,equatorial-guinea,3.5,2022 est.,5,Africa,GQ
+Angola,angola,3.36,2022 est.,6,Africa,AO
+Benin,benin,3.34,2022 est.,7,Africa,BJ
+Uganda,uganda,3.27,2022 est.,8,Africa,UG
+"Congo, Democratic Republic of the",congo-democratic-republic-of-the,3.14,2022 est.,9,Africa,
+Chad,chad,3.09,2022 est.,10,Africa,TD
+Mali,mali,2.95,2022 est.,11,Africa,ML
+Zambia,zambia,2.9,2022 est.,12,Africa,ZM
+Tanzania,tanzania,2.78,2022 est.,13,Africa,
+Guinea,guinea,2.76,2022 est.,14,Africa,GN
+Cameroon,cameroon,2.75,2022 est.,15,Africa,CM
+Liberia,liberia,2.73,2022 est.,16,Africa,LR
+Senegal,senegal,2.57,2022 est.,17,Africa,SN
+Mozambique,mozambique,2.56,2022 est.,18,Africa,MZ
+Sudan,sudan,2.55,2022 est.,19,Africa,SD
+Burkina Faso,burkina-faso,2.53,2022 est.,20,Africa,BF
+Guinea-Bissau,guinea-bissau,2.53,2022 est.,21,Africa,GW
+Nigeria,nigeria,2.53,2022 est.,22,Africa,NG
+Sierra Leone,sierra-leone,2.49,2022 est.,23,Africa,SL
+Togo,togo,2.48,2022 est.,24,Africa,TG
+Ethiopia,ethiopia,2.46,2022 est.,25,Africa,ET
+Venezuela,venezuela,2.43,2022 est.,26,South America,
+Somalia,somalia,2.42,2022 est.,27,Africa,SO
+Gabon,gabon,2.4,2022 est.,28,Africa,GA
+Papua New Guinea,papua-new-guinea,2.35,2022 est.,29,East and Southeast Asia,PG
+"Congo, Republic of the",congo-republic-of-the,2.34,2022 est.,30,Africa,
+Malawi,malawi,2.34,2022 est.,31,Africa,MW
+Afghanistan,afghanistan,2.3,2022 est.,32,South Asia,AF
+"Gambia, The",gambia-the,2.29,2022 est.,33,Africa,
+Madagascar,madagascar,2.27,2022 est.,34,Africa,MG
+Ghana,ghana,2.23,2022 est.,35,Africa,GH
+Cote d'Ivoire,cote-divoire,2.19,2022 est.,36,Africa,
+Timor-Leste,timor-leste,2.15,2022 est.,37,East and Southeast Asia,TL
+Kenya,kenya,2.12,2022 est.,38,Africa,KE
+Gaza Strip,gaza-strip,2.02,2022 est.,39,Middle East,
+Iraq,iraq,2.0,2022 est.,40,Middle East,IQ
+Mauritania,mauritania,1.99,2022 est.,41,Africa,MR
+Djibouti,djibouti,1.97,2022 est.,42,Africa,DJ
+Pakistan,pakistan,1.95,2022 est.,43,South Asia,PK
+Zimbabwe,zimbabwe,1.95,2022 est.,44,Africa,ZW
+British Virgin Islands,british-virgin-islands,1.91,2022 est.,45,Central America and the Caribbean,
+Yemen,yemen,1.88,2022 est.,46,Middle East,YE
+Turks and Caicos Islands,turks-and-caicos-islands,1.86,2022 est.,47,Central America and the Caribbean,TC
+Oman,oman,1.84,2022 est.,48,Middle East,OM
+Cayman Islands,cayman-islands,1.83,2022 est.,49,Central America and the Caribbean,KY
+Namibia,namibia,1.82,2022 est.,50,Africa,NA
+Anguilla,anguilla,1.8,2022 est.,51,Central America and the Caribbean,AI
+Central African Republic,central-african-republic,1.78,2022 est.,52,Africa,CF
+Rwanda,rwanda,1.74,2022 est.,53,Africa,RW
+Solomon Islands,solomon-islands,1.72,2022 est.,54,Australia and Oceania,SB
+West Bank,west-bank,1.69,2022 est.,55,Middle East,
+Egypt,egypt,1.68,2022 est.,56,Africa,EG
+Libya,libya,1.65,2022 est.,57,Africa,LY
+Belize,belize,1.64,2022 est.,58,Central America and the Caribbean,BZ
+Luxembourg,luxembourg,1.64,2022 est.,59,Europe,LU
+Saudi Arabia,saudi-arabia,1.63,2022 est.,60,Middle East,SA
+Vanuatu,vanuatu,1.63,2022 est.,61,Australia and Oceania,VU
+Philippines,philippines,1.6,2022 est.,62,East and Southeast Asia,PH
+Guatemala,guatemala,1.58,2022 est.,63,Central America and the Caribbean,GT
+Panama,panama,1.53,2022 est.,64,Central America and the Caribbean,PA
+Sao Tome and Principe,sao-tome-and-principe,1.48,2022 est.,65,Africa,ST
+Brunei,brunei,1.45,2022 est.,66,East and Southeast Asia,
+Israel,israel,1.44,2022 est.,67,Middle East,IL
+Botswana,botswana,1.4,2022 est.,68,Africa,BW
+Tajikistan,tajikistan,1.4,2022 est.,69,Central Asia,TJ
+Comoros,comoros,1.37,2022 est.,70,Africa,KM
+Algeria,algeria,1.34,2022 est.,71,Africa,DZ
+Laos,laos,1.34,2022 est.,72,East and Southeast Asia,
+Marshall Islands,marshall-islands,1.34,2022 est.,73,Australia and Oceania,MH
+Australia,australia,1.25,2022 est.,74,Australia and Oceania,AU
+Sint Maarten,sint-maarten,1.23,2022 est.,75,Central America and the Caribbean,
+Cabo Verde,cabo-verde,1.21,2022 est.,76,Africa,CV
+Haiti,haiti,1.2,2022 est.,77,Central America and the Caribbean,HT
+Honduras,honduras,1.19,2022 est.,78,Central America and the Caribbean,HN
+New Caledonia,new-caledonia,1.19,2022 est.,79,Australia and Oceania,NC
+Kuwait,kuwait,1.17,2022 est.,80,Middle East,KW
+New Zealand,new-zealand,1.17,2022 est.,81,Australia and Oceania,NZ
+Antigua and Barbuda,antigua-and-barbuda,1.15,2022 est.,82,Central America and the Caribbean,AG
+Aruba,aruba,1.14,2022 est.,83,Central America and the Caribbean,AW
+Paraguay,paraguay,1.14,2022 est.,84,South America,PY
+Ecuador,ecuador,1.13,2022 est.,85,South America,EC
+Suriname,suriname,1.13,2022 est.,86,South America,SR
+Bolivia,bolivia,1.12,2022 est.,87,South America,
+Christmas Island,christmas-island,1.11,2014 est.,88,Australia and Oceania,CX
+Cambodia,cambodia,1.08,2022 est.,89,East and Southeast Asia,KH
+Cyprus,cyprus,1.06,2022 est.,90,Europe,CY
+Kiribati,kiribati,1.04,2022 est.,91,Australia and Oceania,KI
+Qatar,qatar,1.04,2022 est.,92,Middle East,QA
+Eritrea,eritrea,1.03,2022 est.,93,Africa,ER
+Malaysia,malaysia,1.03,2022 est.,94,East and Southeast Asia,MY
+Costa Rica,costa-rica,1.01,2022 est.,95,Central America and the Caribbean,CR
+Turkmenistan,turkmenistan,0.99,2022 est.,96,Central Asia,TM
+Iran,iran,0.98,2022 est.,97,Middle East,
+Bhutan,bhutan,0.97,2022 est.,98,South Asia,BT
+Vietnam,vietnam,0.97,2022 est.,99,East and Southeast Asia,
+Ireland,ireland,0.94,2022 est.,100,Europe,IE
+Bangladesh,bangladesh,0.93,2022 est.,101,South Asia,BD
+Iceland,iceland,0.93,2022 est.,102,Europe,IS
+South Africa,south-africa,0.93,2022 est.,103,Africa,ZA
+Nicaragua,nicaragua,0.92,2022 est.,104,Central America and the Caribbean,NI
+Singapore,singapore,0.92,2022 est.,105,East and Southeast Asia,SG
+Dominican Republic,dominican-republic,0.91,2022 est.,106,Central America and the Caribbean,DO
+Morocco,morocco,0.91,2022 est.,107,Africa,MA
+Bahrain,bahrain,0.88,2022 est.,108,Middle East,BH
+Mongolia,mongolia,0.88,2022 est.,109,East and Southeast Asia,MN
+Kyrgyzstan,kyrgyzstan,0.86,2022 est.,110,Central Asia,KG
+Tuvalu,tuvalu,0.83,2022 est.,111,Australia and Oceania,TV
+Uzbekistan,uzbekistan,0.83,2022 est.,112,Central Asia,UZ
+Argentina,argentina,0.82,2022 est.,113,South America,AR
+"Bahamas, The",bahamas-the,0.82,2022 est.,114,Central America and the Caribbean,
+Jordan,jordan,0.81,2022 est.,115,Middle East,JO
+Norway,norway,0.8,2022 est.,116,Europe,NO
+Indonesia,indonesia,0.79,2022 est.,117,East and Southeast Asia,ID
+Burma,burma,0.78,2022 est.,118,East and Southeast Asia,
+Nepal,nepal,0.78,2022 est.,119,South Asia,NP
+Kazakhstan,kazakhstan,0.77,2022 est.,120,Central Asia,KZ
+Lesotho,lesotho,0.76,2022 est.,121,Africa,LS
+Canada,canada,0.75,2022 est.,122,North America,CA
+Eswatini,eswatini,0.75,2022 est.,123,Africa,SZ
+Macau,macau,0.75,2022 est.,124,East and Southeast Asia,
+Paracel Islands,paracel-islands,0.75,2021 est.,125,East and Southeast Asia,
+French Polynesia,french-polynesia,0.73,2022 est.,126,Australia and Oceania,PF
+Liechtenstein,liechtenstein,0.72,2022 est.,127,Europe,LI
+Brazil,brazil,0.7,2022 est.,128,South America,BR
+Tunisia,tunisia,0.69,2022 est.,129,Africa,TN
+United States,united-states,0.69,2022 est.,130,North America,US
+Azerbaijan,azerbaijan,0.67,2022 est.,131,Middle East,AZ
+India,india,0.67,2022 est.,132,South Asia,IN
+Malta,malta,0.67,2022 est.,133,Europe,MT
+Turkey (Turkiye),turkey-turkiye,0.67,2022 est.,134,Middle East,
+Chile,chile,0.66,2022 est.,135,South America,CL
+Lebanon,lebanon,0.66,2022 est.,136,Middle East,LB
+Switzerland,switzerland,0.65,2022 est.,137,Europe,CH
+Jersey,jersey,0.64,2022 est.,138,Europe,JE
+Seychelles,seychelles,0.64,2022 est.,139,Africa,SC
+Faroe Islands,faroe-islands,0.63,2022 est.,140,Europe,FO
+Samoa,samoa,0.63,2022 est.,141,Australia and Oceania,WS
+Saint Kitts and Nevis,saint-kitts-and-nevis,0.61,2022 est.,142,Central America and the Caribbean,KN
+San Marino,san-marino,0.61,2022 est.,143,Europe,SM
+Sri Lanka,sri-lanka,0.61,2022 est.,144,South Asia,LK
+Monaco,monaco,0.6,2022 est.,145,Europe,MC
+Colombia,colombia,0.59,2022 est.,146,South America,CO
+United Arab Emirates,united-arab-emirates,0.58,2022 est.,147,Middle East,AE
+Belgium,belgium,0.57,2022 est.,148,Europe,BE
+El Salvador,el-salvador,0.57,2022 est.,149,Central America and the Caribbean,SV
+Kosovo,kosovo,0.57,2022 est.,150,Europe,
+United Kingdom,united-kingdom,0.53,2022 est.,151,Europe,GB
+Isle of Man,isle-of-man,0.52,2022 est.,152,Europe,IM
+Mexico,mexico,0.51,2022 est.,153,North America,MX
+Peru,peru,0.51,2022 est.,154,South America,PE
+Montserrat,montserrat,0.5,2022 est.,155,Central America and the Caribbean,MS
+Sweden,sweden,0.5,2022 est.,156,Europe,SE
+"Korea, North",korea-north,0.46,2022 est.,157,East and Southeast Asia,
+Denmark,denmark,0.44,2022 est.,158,Europe,DK
+Fiji,fiji,0.44,2022 est.,159,Australia and Oceania,FJ
+Nauru,nauru,0.42,2022 est.,160,Australia and Oceania,NR
+Palau,palau,0.39,2022 est.,161,Australia and Oceania,PW
+Netherlands,netherlands,0.36,2022 est.,162,Europe,NL
+Bermuda,bermuda,0.34,2022 est.,163,North America,BM
+Saint Martin,saint-martin,0.33,2022 est.,164,Central America and the Caribbean,
+Ashmore and Cartier Islands,ashmore-and-cartier-islands,0.32,2021 est.,165,Australia and Oceania,
+Austria,austria,0.32,2022 est.,166,Europe,AT
+Curacao,curacao,0.32,2022 est.,167,Central America and the Caribbean,
+France,france,0.32,2022 est.,168,Europe,FR
+Grenada,grenada,0.32,2022 est.,169,Central America and the Caribbean,GD
+Saint Lucia,saint-lucia,0.29,2022 est.,170,Central America and the Caribbean,LC
+Uruguay,uruguay,0.27,2022 est.,171,South America,UY
+Barbados,barbados,0.26,2022 est.,172,Central America and the Caribbean,BB
+Wallis and Futuna,wallis-and-futuna,0.25,2022 est.,173,Australia and Oceania,WF
+Finland,finland,0.24,2022 est.,174,Europe,FI
+Guyana,guyana,0.24,2022 est.,175,South America,GY
+"Korea, South",korea-south,0.24,2022 est.,176,East and Southeast Asia,
+Guernsey,guernsey,0.23,2022 est.,177,Europe,GG
+Thailand,thailand,0.23,2022 est.,178,East and Southeast Asia,TH
+Albania,albania,0.22,2022 est.,179,Europe,AL
+China,china,0.19,2022 est.,180,East and Southeast Asia,CN
+Gibraltar,gibraltar,0.19,2022 est.,181,Europe,GI
+Hong Kong,hong-kong,0.17,2022 est.,182,East and Southeast Asia,HK
+Guam,guam,0.16,2022 est.,183,Australia and Oceania,GU
+Trinidad and Tobago,trinidad-and-tobago,0.14,2022 est.,184,Central America and the Caribbean,TT
+"Saint Helena, Ascension, and Tristan da Cunha",saint-helena-ascension-and-tristan-da-cunha,0.13,2022 est.,185,Africa,
+Spain,spain,0.13,2022 est.,186,Europe,ES
+North Macedonia,north-macedonia,0.12,2022 est.,187,Europe,MK
+Mauritius,mauritius,0.1,2022 est.,188,Africa,MU
+Jamaica,jamaica,0.08,2022 est.,189,Central America and the Caribbean,JM
+Dominica,dominica,0.05,2022 est.,190,Central America and the Caribbean,DM
+Taiwan,taiwan,0.04,2022 est.,191,East and Southeast Asia,
+Georgia,georgia,0.03,2022 est.,192,Middle East,GE
+Czechia,czechia,0.02,2022 est.,193,Europe,CZ
+Falkland Islands (Islas Malvinas),falkland-islands-islas-malvinas,0.01,2014 est.,194,South America,
+Norfolk Island,norfolk-island,0.01,2014 est.,195,Australia and Oceania,NF
+Holy See (Vatican City),holy-see-vatican-city,0.0,2014 est.,196,Europe,
+Pitcairn Islands,pitcairn-islands,0.0,2014 est.,197,Australia and Oceania,
+Tokelau,tokelau,-0.01,2019 est.,198,Australia and Oceania,TK
+Greenland,greenland,-0.02,2022 est.,199,North America,GL
+Niue,niue,-0.03,2021 est.,200,Australia and Oceania,NU
+Svalbard,svalbard,-0.03,2019 est.,201,Europe,
+Slovenia,slovenia,-0.06,2022 est.,202,Europe,SI
+Andorra,andorra,-0.1,2022 est.,203,Europe,AD
+Slovakia,slovakia,-0.1,2022 est.,204,Europe,SK
+Germany,germany,-0.11,2022 est.,205,Europe,DE
+Italy,italy,-0.13,2022 est.,206,Europe,IT
+Maldives,maldives,-0.14,2022 est.,207,South Asia,MV
+Saint Barthelemy,saint-barthelemy,-0.16,2022 est.,208,Central America and the Caribbean,
+Saint Vincent and the Grenadines,saint-vincent-and-the-grenadines,-0.17,2022 est.,209,Central America and the Caribbean,VC
+Portugal,portugal,-0.2,2022 est.,210,Europe,PT
+Cuba,cuba,-0.21,2022 est.,211,Central America and the Caribbean,CU
+Bosnia and Herzegovina,bosnia-and-herzegovina,-0.22,2022 est.,212,Europe,BA
+Russia,russia,-0.22,2022 est.,213,Central Asia,
+Poland,poland,-0.26,2022 est.,214,Europe,PL
+Tonga,tonga,-0.26,2022 est.,215,Australia and Oceania,TO
+Hungary,hungary,-0.3,2022 est.,216,Europe,HU
+Belarus,belarus,-0.31,2022 est.,217,Europe,BY
+Greece,greece,-0.34,2022 est.,218,Europe,GR
+Northern Mariana Islands,northern-mariana-islands,-0.35,2022 est.,219,Australia and Oceania,MP
+Armenia,armenia,-0.38,2022 est.,220,Middle East,AM
+Japan,japan,-0.39,2022 est.,221,East and Southeast Asia,JP
+Montenegro,montenegro,-0.41,2022 est.,222,Europe,ME
+Virgin Islands,virgin-islands,-0.45,2022 est.,223,Central America and the Caribbean,
+Croatia,croatia,-0.47,2022 est.,224,Europe,HR
+Ukraine,ukraine,-0.5,2022 est.,225,Europe,UA
+Bulgaria,bulgaria,-0.67,2022 est.,226,Europe,BG
+"Micronesia, Federated States of",micronesia-federated-states-of,-0.67,2022 est.,227,Australia and Oceania,FM
+Estonia,estonia,-0.71,2022 est.,228,Europe,EE
+Serbia,serbia,-0.75,2022 est.,229,Europe,RS
+Lithuania,lithuania,-1.04,2022 est.,230,Europe,LT
+Romania,romania,-1.09,2022 est.,231,Europe,RO
+Latvia,latvia,-1.11,2022 est.,232,Europe,LV
+Moldova,moldova,-1.12,2022 est.,233,Europe,
+Saint Pierre and Miquelon,saint-pierre-and-miquelon,-1.2,2022 est.,234,North America,PM
+Puerto Rico,puerto-rico,-1.38,2022 est.,235,Central America and the Caribbean,PR
+American Samoa,american-samoa,-1.92,2022 est.,236,Australia and Oceania,AS
+Cook Islands,cook-islands,-2.39,2022 est.,237,Australia and Oceania,CK
